@@ -11,6 +11,8 @@ I’m currently learning the OS development.
 My dream is: be a professional programmer and osdev :).
 
 My Discord: GreenSoup Developer#4806.
+.
+<br>
 <br>
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=GreenSoupDeveloper&count_private=false&show_icons=true&hide=contribs)
 <br>
