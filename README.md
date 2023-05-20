@@ -6,9 +6,11 @@ I can code in C#, HAXE, HTML5 and CSS, im currently learning Python, Assembly, C
 
 im currently learning the OS development ah.
 
-i want to be a professional programmer and osdev :).
+i want to be a professional programmer and os developer :).
 
 My Discord: GreenSoup Developer#4806.
+
+Pronouns:                    he/him
 
 hi
 <br>
