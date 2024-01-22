@@ -2,9 +2,9 @@
 
 im a principiant programmer, i live in Venezuela and i like the soup lol.
 
-I can code in C#, HAXE, HTML5, CSS, Python, Java, C, make Android Apps and a lot of stuff that im lazy to put here. im currently learning Assembly and C++
+I can code in C#, HAXE, HTML5, CSS, Python, Java, C, make Android Apps and a lot of stuff that im lazy to put here. im currently learning C and C++
 
-im currently learning NDS development.
+im currently learning Source Engine development.
 
 i want to be a professional programmer and os developer :).
 
