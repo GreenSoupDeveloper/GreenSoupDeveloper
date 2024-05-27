@@ -8,7 +8,7 @@ im currently learning Source Engine development.
 
 i want to be a professional programmer :).
 
-My Discord: greensoupdeveloper
+My Discord: greensoupdev
 
 
 hi
