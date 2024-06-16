@@ -1,4 +1,4 @@
-# Hi there :).
+# Hi there :)
 ![gifmaker_me](https://github.com/GreenSoupDeveloper/GreenSoupDeveloper/assets/109924369/5be6c8b7-8a03-45ee-b5ee-c42b7a733890)
 
 * Im a amateur Programmer, Musician and a bit of Graphic Artist. i live in Venezuela and i like the soup <Strong>lol</Strong>.
