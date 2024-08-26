@@ -7,7 +7,7 @@
 
 ### My Discord: greensoupdev
 
-## Languages I Think I Know
+## Languages I Know
 <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,css,cs,java,python,c,cpp,js,html,&perline=10&theme=dark"/>
 
 [![GreenSoupDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenSoupDeveloper&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
