@@ -1,7 +1,7 @@
 # Hi there :)
 ![gifmaker_me](https://github.com/GreenSoupDeveloper/GreenSoupDeveloper/assets/109924369/5be6c8b7-8a03-45ee-b5ee-c42b7a733890)
 
-* Im a amateur Programmer and Graphic Artist, and also a bit of Musician. I live in Venezuela and i like the soup <Strong>lol</Strong>.
+* Im a amateur Programmer and a bad artist, and also a bit of Musician. I live in Venezuela and i like the soup <Strong>lol</Strong>.
 * Im currently learning Source Engine development and idk, doing stuff.
 * I want to be a professional programmer :)
 
